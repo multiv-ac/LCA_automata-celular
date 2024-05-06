@@ -32,3 +32,5 @@
 
 #### [Simulación](https://tinyurl.com/2whdor7w)
 
+![Simulación física](circuit-20240506-0957.png "Simulación física")
+[Simulación de una celda](https://tinyurl.com/3xkusjz4)
