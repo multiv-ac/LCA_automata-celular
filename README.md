@@ -13,17 +13,11 @@
 | 0 | 0 | 1 | 1  |
 | 0 | 0 | 0 | 0  |
 
-<!---
 
-### Mapa de Karnaugh:
+<img src="mapa_karnaugh.jpg" width="500" />
 
-|   | 00 | 01 | 11 | 10 |
-|:-:|:--:|:--:|:--:|:--:|
-| 0 |  0 |  1 |  0 |  1 |
-| 1 |  1 |  0 |  0 |  1 |
--->
-
-### OUT = a'.b + a'.c + a.b'.c'
+### El resultado es OUT = a'.b + a'.c + a.b'.c' que en compuertas lógicas se traduce a:
+<!-- **### OUT = a'.b + a'.c + a.b'.c' -->
 
 ![Sintesis lógica de R30](circuit-20240505-2001.png "Sintesis lógica de R30")
 
