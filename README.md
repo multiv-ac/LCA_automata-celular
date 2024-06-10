@@ -79,6 +79,7 @@ Se utilizan transistores para realizar las compuertas lógicas:
 ### [Simulación de todo el autómata con 3 celdas](https://tinyurl.com/246u2hgd)
 ![](circuit-20240601-1953.png)
 
+<!--- [Video](https://youtu.be/lkcD5a4dLAU) -->
 
 ### [Dentro de cada celda](https://tinyurl.com/2aovvxox)
 ![](circuit-20240601-1959.png)
