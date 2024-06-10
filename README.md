@@ -71,11 +71,10 @@ El circuito es entonces tal para cada celda del autómata. Siendo b la misma cel
 
 ### Circuito electrónico
 
-Se utilizan transistores para realizar las compuertas lógicas.
+Se utilizan transistores para realizar las compuertas lógicas:
 
-Una compuerta not puede realizarse usando un transistor de la siguiente manera:
-
-
+![](circuit-20240609-2245.png)
+[Simulación transistores](https://tinyurl.com/27gn6sy7)
 
 ### [Simulación de todo el autómata con 3 celdas](https://tinyurl.com/246u2hgd)
 ![](circuit-20240601-1953.png)
